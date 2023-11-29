@@ -1,0 +1,14 @@
+### Advantages of Rust for software system integration
+
+By now you've certainly been exposed to some of the hype behind the Rust programming language.
+For the last eight years Rust has [ranked #1 in the "Most admired language"](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/#:~:text=For%20the%20eighth%20year%20in,Stack%20Overflow's%20annual%20developer%20survey.) category of Stack Overflow's annual developer survey.
+Perhaps no other language in the history of software programming has commanded a following so dedicated to pestering their colleagues, friends, and random passers-by to switch to it for every conceivable use case.
+
+At the next session of the Interoperability Special Interest Group, Grey will discuss the relevance of Rust to software system integration in particular.
+The challenge of tying together complex software systems carries significant liabilities.
+Failures to connect systems together correctly or to scale well can lead to cascading failures in your operations.
+The Rust language and its surrounding open source ecosystem offer some unique advantages when it comes to both software correctness and scaling.
+
+This will not be a session that teaches how to program in Rust.
+The focus will be to provide attendees with enough information to objectively evaluate whether Rust is a good candidate for their business needs, with an emphasis on software system integration use cases.
+We will conclude with an open Q&A, so feel free to bring along any burning questions or concerns you might have.
