@@ -8,6 +8,8 @@ Interoperable can mean components are interchangeable or it can mean different s
 
 Monthly meetings can be accessed from this link: https://meet.google.com/qoj-nfxx-bxy
 
+A recurring event can be found for the interest group on the [Official OSRF Events Calendar](https://calendar.google.com/calendar/embed?src=agf3kajirket8khktupm9go748%40group.calendar.google.com&ctz=UTC).
+
 Meetings will usually take place on the first Thursday of each month.
 Check the [agenda](agenda) directory for specific plans for upcoming sessions.
 
