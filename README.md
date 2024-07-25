@@ -6,7 +6,7 @@ Interoperable can mean components are interchangeable or it can mean different s
 
 # Meetings
 
-Monthly meetings can be accessed from this link: https://meet.google.com/qoj-nfxx-bxy
+Monthly meetings will be held [at this Zoom link](https://openrobotics-org.zoom.us/j/82222141986?pwd=30wAfBwxIQ66O12HslQVvBziGxPmJ0.1).
 
 A recurring event can be found for the interest group on the [Official OSRF Events Calendar](https://calendar.google.com/calendar/embed?src=agf3kajirket8khktupm9go748%40group.calendar.google.com&ctz=UTC).
 
